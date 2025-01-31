@@ -1,0 +1,1 @@
+# Set SSL OPEN status within Athena server
